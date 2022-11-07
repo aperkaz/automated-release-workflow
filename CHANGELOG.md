@@ -2,6 +2,19 @@
 
 All notable changes to this project will be documented in this file. See [commit-and-tag-version](https://github.com/absolute-version/commit-and-tag-version) for commit guidelines.
 
+### [0.1.2](https://github.com/aperkaz/automated-release-workflow/compare/v0.1.1...v0.1.2) (2022-11-07)
+
+
+### Features
+
+* add feature 2.2 ([af345f7](https://github.com/aperkaz/automated-release-workflow/commit/af345f7a7b8cfff78c8ea46ffbdc51598857b50d))
+* **ui:** add feature 2 ([6f94718](https://github.com/aperkaz/automated-release-workflow/commit/6f94718c76b79122967a5d2cf35bf701fbb52678))
+
+
+### Bug Fixes
+
+* **release:** update release library, as standard-version is deprecated ([c83ef83](https://github.com/aperkaz/automated-release-workflow/commit/c83ef83f7cd2cf8f0626cbd8abde4e9f34b744a2))
+
 ### 0.1.1 (2022-10-27)
 
 
