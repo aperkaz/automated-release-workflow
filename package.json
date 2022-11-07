@@ -9,7 +9,7 @@
     "eject": "react-scripts eject",
     "commit": "cz",
     "prepare": "husky install",
-    "release": "standard-version"
+    "release": "commit-and-tag-version"
   },
   "eslintConfig": {
     "extends": [
@@ -41,9 +41,9 @@
   "devDependencies": {
     "@commitlint/cli": "17.1.2",
     "@commitlint/config-conventional": "17.1.0",
+    "commit-and-tag-version": "^10.1.0",
     "cz-conventional-changelog": "3.3.0",
-    "husky": "8.0.0",
-    "standard-version": "^9.5.0"
+    "husky": "8.0.0"
   },
   "config": {
     "commitizen": {
