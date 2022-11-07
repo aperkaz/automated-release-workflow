@@ -2,6 +2,17 @@
 
 All notable changes to this project will be documented in this file. See [commit-and-tag-version](https://github.com/absolute-version/commit-and-tag-version) for commit guidelines.
 
+## [2.0.0](https://github.com/aperkaz/automated-release-workflow/compare/v1.2.0...v2.0.0) (2022-11-07)
+
+
+### ⚠ BREAKING CHANGES
+
+* breaking changes!
+
+### Bug Fixes
+
+* huge new feature, breaks app ([9425b9e](https://github.com/aperkaz/automated-release-workflow/commit/9425b9ec143216c338302b77e0ba3a09667e2690))
+
 ## [1.2.0](https://github.com/aperkaz/automated-release-workflow/compare/v1.1.0...v1.2.0) (2022-11-07)
 
 
